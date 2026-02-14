@@ -24,8 +24,8 @@ Building scalable mobile and web applications with clean architecture.
 
 ### 📈 GitHub Stats
 <p>
-<img src="[https://github-readme-stats.vercel.app/api?username=utkarsh140503](https://github.com/yuvanpng)&show_icons=true&hide_border=true" height="150"/>
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=utkarsh140503](https://github.com/yuvanpng)&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yuvanpng&show_icons=true&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvanpng&hide_border=true" height="150"/>
 </p>
 
 ---
