@@ -1,4 +1,4 @@
-<img width="547" height="342" alt="image" src="https://github.com/user-attachments/assets/22b34d1f-2efc-45b5-93c5-f1d1ac5b728c" /><h1 align="center">Yuvan Shankar Baabu K</h1>
+<h1 align="center">Yuvan Shankar Baabu K</h1>
 <h3 align="center">Android Developer | Problem Solver | India</h3>
 
 <p align="center">
@@ -32,6 +32,6 @@ Building scalable mobile and web applications with clean architecture.
 
 ### 🤝 Connect With Me
 <p>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://twitter.com/YOUR_LINK"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://www.linkedin.com/in/yuvanshankarbaabu/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.instagram.com/_yuvxn_/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
